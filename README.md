@@ -1,1 +1,1 @@
-# Mini-project-3
+# crypto_signal
